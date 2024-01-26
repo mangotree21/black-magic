@@ -1,2 +1,2 @@
 print("hello!")
-user = int(input("Please enter your name"))
+user = input("Please enter your name").lower()
